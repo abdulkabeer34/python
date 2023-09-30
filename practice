@@ -12,6 +12,4 @@ str = "kabber,23"
 a = employ.new(str)
 a.show()
 
-print("hello this is te practice of the pythong language to learn the github")
-
 
